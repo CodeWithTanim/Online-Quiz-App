@@ -1,0 +1,84 @@
+# Online Quiz App 🎮
+
+<p align="center">
+  <img src="https://your-image-link.com" alt="Online Quiz App Banner" style="max-width: 100%; height: auto; width: 400px;">
+</p>
+
+<h1 align="center">🧠 Online Quiz App 🚀</h1>
+<p align="center">
+  <b>Interactive quizzes with real-time results and progress tracking!</b> ⚡<br>
+  Test your knowledge with engaging quizzes and track your progress over time. 🛠️<br>
+  <sub>Tech Stack: HTML, CSS, JavaScript, Firebase</sub>
+</p>
+
+---
+
+### Introduction
+
+The **Online Quiz App** is an interactive platform that allows users to take quizzes on various topics. Users can view their quiz scores in real-time and track their progress as they complete more quizzes. 
+
+This project leverages **Firebase** for authentication and real-time database functionalities, ensuring a seamless and dynamic experience for users.
+
+---
+
+### Features
+
+#### User-Side
+- **User Authentication**: Login and Registration with Firebase.
+- **Quiz Taking**: Answer questions on various topics.
+- **Real-time Results**: Get instant feedback on quiz performance.
+- **Progress Tracking**: View progress over time.
+
+#### Admin-Side
+- **Manage Quizzes**: Admin can create, update, and delete quizzes.
+- **User Progress**: Admin can view user quiz results and progress.
+
+---
+
+### 📄 Project Report
+📘 You can check out the complete **Project Report** here:  
+🔗 [Project_Report.pdf](https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Project_Report.pdf)
+
+---
+
+### Screenshots
+
+<p align="center">
+  <img src="https://github.com/your-github-repo/screenshots/1.png" alt="Quiz App Screenshot 1" width="300">
+  <img src="https://github.com/your-github-repo/screenshots/2.png" alt="Quiz App Screenshot 2" width="300">
+</p>
+
+---
+
+### How to Run ??
+
+#### Requirements
+- A local server or hosting service (e.g., Firebase hosting or any web server).
+- Firebase account for real-time database and authentication setup.
+
+#### Installation/Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/CodeWithTanim/Online-Quiz-App.git
+   ```
+2. Set up Firebase and get your credentials (refer to Firebase documentation).
+3. Replace Firebase configuration in `firebase-config.js` with your project details.
+4. Deploy to Firebase or run locally using any server of your choice.
+
+---
+
+### Contributors
+
+<a href="https://github.com/CodeWithTanim/Online-Quiz-App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CodeWithTanim/Online-Quiz-App" />
+</a>
+
+---
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://fb.com/CodeWithTanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msrtanim1" height="30" width="40" /></a>
+  <a href="https://instagram.com/CodeWithTanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msrtanim1" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="msrtanim" height="30" width="40" /></a>
+</p>
