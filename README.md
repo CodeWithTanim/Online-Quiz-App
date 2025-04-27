@@ -45,22 +45,22 @@ This project leverages **Firebase** for authentication and real-time database fu
 
 #### **Student Panel**
 <p align="center">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Home_Page.png" alt="Student_Home_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Login_Page.png" alt="Student_Login_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Quiz_Page.png" alt="Student_Quiz_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Exam_Page.png" alt="Student_Exam_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_History_Page.png" alt="Student_History_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Ranking_Page.png" alt="Student_Ranking_Page" width="300">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Home_Page.png" alt="Student_Home_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Login_Page.png" alt="Student_Login_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Quiz_Page.png" alt="Student_Quiz_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Exam_Page.png" alt="Student_Exam_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_History_Page.png" alt="Student_History_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Student_Ranking_Page.png" alt="Student_Ranking_Page" width="1024">
 </p>
 
 #### **Admin Panel**
 <p align="center">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Login_Page.png" alt="Admin_Login_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Home_Page.png" alt="Admin_Home_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Student_Management_Page.png" alt="Admin_Student_Management_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Add_Quiz_Page.png" alt="Admin_Add_Quiz_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Quiz_Remove_Page.png" alt="Admin_Quiz_Remove_Page" width="300">
-  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Ranking_Page.png" alt="Admin_Ranking_Page" width="300">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Login_Page.png" alt="Admin_Login_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Home_Page.png" alt="Admin_Home_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Student_Management_Page.png" alt="Admin_Student_Management_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Add_Quiz_Page.png" alt="Admin_Add_Quiz_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Quiz_Remove_Page.png" alt="Admin_Quiz_Remove_Page" width="1024">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Ranking_Page.png" alt="Admin_Ranking_Page" width="1024">
 </p>
 
 
