@@ -1,14 +1,14 @@
 # Online Quiz App 🎮
 
 <p align="center">
-  <img src="https://your-image-link.com" alt="Online Quiz App Banner" style="max-width: 100%; height: auto; width: 400px;">
+  <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/image/banner.png" alt="Online Quiz App Banner" style="max-width: 100%; height: auto; width: 400px;">
 </p>
 
 <h1 align="center">🧠 Online Quiz App 🚀</h1>
 <p align="center">
   <b>Interactive quizzes with real-time results and progress tracking!</b> ⚡<br>
   Test your knowledge with engaging quizzes and track your progress over time. 🛠️<br>
-  <sub>Tech Stack: HTML, CSS, JavaScript, Firebase</sub>
+  <sub>Tech Stack: PHP, CSS, JavaScript, MySQL</sub>
 </p>
 
 ---
@@ -17,14 +17,14 @@
 
 The **Online Quiz App** is an interactive platform that allows users to take quizzes on various topics. Users can view their quiz scores in real-time and track their progress as they complete more quizzes. 
 
-This project leverages **Firebase** for authentication and real-time database functionalities, ensuring a seamless and dynamic experience for users.
+This project leverages **PHP**, **CSS**, **JavaScript**, and **MySQL** to provide a seamless and dynamic experience for users.
 
 ---
 
 ### Features
 
 #### User-Side
-- **User Authentication**: Login and Registration with Firebase.
+- **User Authentication**: Login and Registration using PHP and MySQL.
 - **Quiz Taking**: Answer questions on various topics.
 - **Real-time Results**: Get instant feedback on quiz performance.
 - **Progress Tracking**: View progress over time.
@@ -63,23 +63,31 @@ This project leverages **Firebase** for authentication and real-time database fu
   <img src="https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Screenshot/Admin_Ranking_Page.png" alt="Admin_Ranking_Page" width="1024">
 </p>
 
-
 ---
 
 ### How to Run ??
 
 #### Requirements
-- A local server or hosting service (e.g., Firebase hosting or any web server).
-- Firebase account for real-time database and authentication setup.
+- A local server like **XAMPP** or **WAMP** or any web hosting service supporting PHP and MySQL.
+- A web browser (e.g., Chrome, Firefox).
+- A MySQL database for storing quiz data and user information.
 
 #### Installation/Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/CodeWithTanim/Online-Quiz-App.git
    ```
-2. Set up Firebase and get your credentials (refer to Firebase documentation).
-3. Replace Firebase configuration in `firebase-config.js` with your project details.
-4. Deploy to Firebase or run locally using any server of your choice.
+2. Set up a local server like **XAMPP** or **WAMP** and start Apache and MySQL services.
+3. Create a new MySQL database named `online_quiz_db` and import the database schema from `database/quiz_schema.sql`.
+4. Configure the MySQL database connection in `config/db.php` file by setting your database credentials:
+   ```php
+   define('DB_SERVER', 'localhost');
+   define('DB_USERNAME', 'root');
+   define('DB_PASSWORD', '');
+   define('DB_DATABASE', 'online_quiz_db');
+   ```
+5. Open the project in your browser:  
+   Example: `http://localhost/Online-Quiz-App/`
 
 ---
 
