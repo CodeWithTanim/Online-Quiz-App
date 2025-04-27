@@ -135,7 +135,6 @@ Password_2:
 ---
 
 ### Contributors
-
 <a href="https://github.com/CodeWithTanim/Online-Quiz-App/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CodeWithTanim/Online-Quiz-App" />
 </a>
