@@ -40,7 +40,7 @@ This **Online Quiz System** is in PHP, CSS, JavaScript, and bootstrap. Talking a
 
 ### 📄 Project Report
 📘 You can check out the complete **Project Report** here:  
-🔗 [Project_Report.pdf](https://exploitinject.ct.ws/ComingSoon.html)
+🔗 [Project_Report.pdf](https://github.com/CodeWithTanim/Online-Quiz-App/blob/main/Project%20Report/Project_Final_Report_Online_Quiz_App.pdf)
 
 ---
 
